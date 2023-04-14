@@ -1,4 +1,3 @@
-# button maker
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 
 class ButtonMaker:
